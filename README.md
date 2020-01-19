@@ -1,6 +1,6 @@
 # Serveur d'une médiathèque
 ## Projet d'Application Serveur Java, réalisé entre décembre 2019 et janvier 2020
----
+
 ### CONTEXTE
 Une médiathèque se digitalise et veut mettre en place un service de réservation, d'emprunt, et de retour de ses documents.
 
